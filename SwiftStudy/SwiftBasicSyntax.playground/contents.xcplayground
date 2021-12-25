@@ -10,5 +10,11 @@
         <page name='AboutStatic'/>
         <page name='iOSAcademyTutorial#2'/>
         <page name='iOSAcademyTutorial#3'/>
+        <page name='iOSAcademyTutorial#4_class'/>
+        <page name='iOSAcademyTutorial#4_struct'/>
+        <page name='iOSAcademyTutorial#5_loop'/>
+        <page name='iOSAcademyTutorial#6_Optional'/>
+        <page name='iOSAcademyTutorial#7_IfElse'/>
+        <page name='MyTool'/>
     </pages>
 </playground>

@@ -32,14 +32,23 @@ func log() {
 log()
 
 func isEven(number: Int) -> Bool {
-	if (number%2 == 0){
+	if number%2 == 0 {
 		return true
-	}else{
-		return false
 	}
+	return false
+
 }
 
 
 print(isEven(number: sum))
 
 type(of: sum)
+
+print("_____________________________")
+
+var result = isEven(number: 4)
+print(result)
+result = isEven(number: 64)
+print(result)
+result = isEven(number: 999)
+print(result)
