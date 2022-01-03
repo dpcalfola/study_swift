@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
     <pages>
+        <page name='AboutPrint'/>
+        <page name='AboutStatic'/>
         <page name='Day01Conditional'/>
         <page name='Day02ForeachLoop'/>
         <page name='Day03Enum'/>
         <page name='Day04Loop'/>
         <page name='Day05Optional'/>
         <page name='iOSAcademyTutorial#1 '/>
-        <page name='AboutStatic'/>
         <page name='iOSAcademyTutorial#2'/>
         <page name='iOSAcademyTutorial#3'/>
         <page name='iOSAcademyTutorial#4_class'/>
@@ -15,6 +16,15 @@
         <page name='iOSAcademyTutorial#5_loop'/>
         <page name='iOSAcademyTutorial#6_Optional'/>
         <page name='iOSAcademyTutorial#7_IfElse'/>
+        <page name='MyPractice'/>
+        <page name='MyPractice2'/>
         <page name='MyTool'/>
+        <page name='MyPractice3'/>
+        <page name='Parsing_number'/>
+        <page name='Permutation'/>
+        <page name='parsing_string'/>
+        <page name='Tuple'/>
+        <page name='Optional'/>
+        <page name='TestCode'/>
     </pages>
 </playground>
