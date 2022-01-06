@@ -36,3 +36,6 @@ printStr = alpha[firstIndex ..< endIndex]
 print(printStr)
 
 
+
+
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Page1'/>
+        <page name='Page2'/>
+        <page name='page3_switch'/>
+        <page name='Page4_tuple'/>
+        <page name='page5_tupleAndSwitch'/>
+        <page name='Quiz1_RockPaperScissors'/>
+        <page name='Quiz2_RandomBingo'/>
+        <page name='Page6_TernaryOperator'/>
+        <page name='Page7'/>
+        <page name='Quiz_MutiplicationTable'/>
+        <page name='Page8_LabeledStatements'/>
+        <page name='Page9'/>
+    </pages>
+</playground>

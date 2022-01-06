@@ -20,8 +20,9 @@
         <page name='MyPractice2'/>
         <page name='MyTool'/>
         <page name='MyPractice3'/>
-        <page name='Parsing_number'/>
         <page name='Permutation'/>
+        <page name='Parsing_number'/>
+        <page name='parsing_string_array'/>
         <page name='parsing_string'/>
         <page name='Tuple'/>
         <page name='Optional'/>
